@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "HeadFirstLounge"
+		},
+		{
+			"path": "SegwayJournal"
+		},
+		{
+			"path": "StarbuzzCoffee"
+		},
+		{
+			"name": "HTML_CSS",
+			"path": "."
+		}
+	]
+}
